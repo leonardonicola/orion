@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main><h1>Olá mundo</h1></main>
+  <h1 class="text-8xl font-bold">Hello world!</h1>
 </template>
